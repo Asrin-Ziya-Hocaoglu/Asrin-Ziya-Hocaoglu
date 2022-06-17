@@ -3,9 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrin-ziya-hocaoglu" alt="asrin-ziya-hocaoglu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/asr_ziya" target="blank"><img src="https://img.shields.io/twitter/follow/asr_ziya?logo=twitter&style=for-the-badge" alt="asr_ziya" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio WebSite](https://github.com/Asrin-Ziya-Hocaoglu/Portfolio-Web-Site-)
 
